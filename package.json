@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "mocha": "^9.1.2",
+    "mochawesome": "^6.3.1"
+  },
+  "name": "cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadap14/Firecreek-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tadap14/Firecreek-Test/issues"
+  },
+  "homepage": "https://github.com/tadap14/Firecreek-Test#readme",
+  "description": ""
+}
